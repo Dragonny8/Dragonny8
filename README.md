@@ -13,10 +13,15 @@ My name is Daniel Tavares from Cantanhede in Portugal and I am a scientist (mino
 
 
 ### Courses Taken
+
 *CS50x* - Harvard University's introductory computer science course. Managed to learn basic programming principles envolving C, SQL, Python, Javascript/HTML/CSS and Flask.
+
 *CS50SQL* - Course covering the fundamentals of SQL.
+
 *CS50R* - Course covering the fundamentals of R.
 
 ### What's Next?
+
 *CS50P* - To deepen and cement my knowledge in Python.
+
 Besides, I am also looking into courses to deepen statistical knowledge, PowerBI usage and possibly some machine learning.
