@@ -24,4 +24,4 @@ My name is Daniel Tavares from Cantanhede in Portugal and I am a scientist (mino
 
 **CS50P** - To deepen and cement my knowledge in Python.
 
-Besides, I am also looking into courses to deepen statistical knowledge, PowerBI usage and possibly some machine learning.
+Besides, I am also looking into courses to deepen **statistical** knowledge, **PowerBI** usage and possibly some **machine learning**.
