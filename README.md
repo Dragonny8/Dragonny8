@@ -4,11 +4,11 @@
 My name is Daniel Tavares from Cantanhede in Portugal and I am a scientist (minor in biotechnology and major in industrial and environmental biotechnology) delving into the endless possibilities world of programming.
 
 ### Main Projects
-<a href="[https://github.com/Dragonny8/CS50xFinalproject]" target="_blank">CS50x Final Project - Chef's Choice</a> - Website created based on Flask made for the culmination of the CS50x course. It consists on a website with user authentication, where the user can input recipes to a portfolio, afterwards the "Chef" helps the user selecting a recipe or menu to cook.
+[CS50x Final Project - Chef's Choice](https://github.com/Dragonny8/CS50xFinalproject) - Website created based on Flask made for the culmination of the CS50x course. It consists on a website with user authentication, where the user can input recipes to a portfolio, afterwards the "Chef" helps the user selecting a recipe or menu to cook.
 
-<a href="[https://github.com/Dragonny8/CS50R---Final-Project]" target="_blank">CS50R Final Project - Inflation</a> - Program created using R language. It consists on a program that takes inflation data input from INE (Portuguese National Statistics Institute), cleaning and tidying data to ease analysis of inflation data.
+[CS50R Final Project - Inflation](https://github.com/Dragonny8/CS50R---Final-Project) - Program created using R language. It consists on a program that takes inflation data input from INE (Portuguese National Statistics Institute), cleaning and tidying data to ease analysis of inflation data.
 
-<a href="[https://github.com/Dragonny8/CS50SQL-Final-Project]" target="_blank">CS50SQL Final Project - NBA</a> - Database created using SQLite3. It consists on a database of NBA teams and results that facilitates detection of trends of teams or home advantage and alike.
+[CS50SQL Final Project - NBA.db](https://github.com/Dragonny8/CS50SQL-Final-Project) - Database created using SQLite3. It consists on a database of NBA teams and results that facilitates detection of trends of teams results, or home advantage and alike.
 
 
 
